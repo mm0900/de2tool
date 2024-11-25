@@ -19,3 +19,23 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mm0900/de2tool.git
+```
+### Install Dependencies
+Navigate to the project directory:
+```bash
+cd de2tool
+```
+### Install the required Python packages using pip:
+```bash
+pip install -r requirements.txt
+```
+This command will install the necessary libraries specified in requirements.txt, including dependencies like pycryptodome, pyfiglet, and termcolor.
+
+### Example Workflow
+Select the encryption method you want to use (AES, DES, Base64, or Caesar Cipher).
+Enter the text you wish to encrypt.
+The tool will display the encrypted text and the method hash.
+To decrypt, provide the encrypted text and the method hash.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
