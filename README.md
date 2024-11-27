@@ -5,7 +5,7 @@
 ## Description
 DE2Tool is a versatile encryption and decryption tool designed to help users securely handle sensitive data. The tool supports multiple encryption algorithms, including AES, DES, Base64, and Caesar Cipher. This project allows you to encrypt and decrypt text using combinations of these methods for added security.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/image.png)
 
 ## Features
 - **AES Encryption**: Advanced encryption standard for secure encryption.
