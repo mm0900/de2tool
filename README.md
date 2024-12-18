@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 This command will install the necessary libraries specified in requirements.txt, including dependencies like pycryptodome, pyfiglet, and termcolor.
 
-[Demo Video](images/demo_de2tool.mp4)
+https://github.com/user-attachments/assets/ec2e8b63-31b4-48a5-af12-61ea5613346e
 ### Example Workflow
 Select the encryption method you want to use (AES, DES, Base64, or Caesar Cipher).
 Enter the text you wish to encrypt.
